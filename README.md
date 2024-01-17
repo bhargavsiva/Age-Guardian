@@ -1,4 +1,4 @@
-# Age-Guardian
+Age-Guardian
 
-### CSE 535 - Mobile Computing 
+An Elderly Care and Safety App
 
