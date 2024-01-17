@@ -13,8 +13,7 @@ The incorporation of a fuzzy logic algorithm for risk assessment, based on weath
 The utilization of AWS SQS for asynchronous communication and Amazon DynamoDB for data storage showcases the scalability and reliability of cloud services in a real-world application. 
 
 
-
-# REFERENCES
+### REFERENCES
 1. Android programming techniques for improving performance - https://ieeexplore.ieee.org/abstract/document/6163105 
 2. Case Study on Efficient Android Programming Education using Multi Android Development Tools - https://sciresol.s3.us-east-2.amazonaws.com/IJST/Articles/2015/Issue-19/Article30.pdf 
 3. AsyncTask Android Development - https://developer.android.com/reference/android/os/AsyncTask
